@@ -45,6 +45,8 @@
                     </svg>
                 </div>
 
+                <a href="{{ url('login/github') }}" class="text-sm text-gray-700 underline" style="display: inline-block; padding: 2px 4px; font-size: 16px;">Sign In With GitHub</a>
+
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
